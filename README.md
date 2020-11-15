@@ -1,6 +1,6 @@
 Below are the links for SDML presentations and videos:
 
-## 2020
+### 2020
 
 **A RapidMiner Overview** by Steven Fouskarinis
 <br>
@@ -9,17 +9,15 @@ Below are the links for SDML presentations and videos:
 * Steven Fouskarinis is an electrical engineer and computer scientist by training who works on scaling execution at a company level. Past projects include using NLP to infer ICDs & CPTs from clinical notes, automating medical bill creation and submission, predicting infusion pump misuse, and using a chatbot as a non-visual interface for research paper discovery.
 * [Slides](./SDML-RapidMiner_Overview.pdf) and the video will be uploaded soon
 
-## 2019
-
 **Genetics & Genomics** by Chris Keown
 <br>
-*June 20, 2019*
+*June 20, 2020*
 * Most people have a superficial understanding of genetics, as it plays a causal role in who we are. In the first half of this talk, I will explain what the field of genetics is, how we do experiments and analyses, and the recent learnings and challenges in the field. In the second half of my talk, I will focus on genomics and epigenomics. These are two very hot areas in research, but are lesser known to non-experts. Again, I will explain the field, how we do experiments and analyses, and how machine learning has been and can be applied in this domain.
 * [Slides](./SDML_genomics_FNL.pdf) and [video](https://www.youtube.com/watch?v=NT9hBuBAexg)
 
 **Productizing ML** by Ryan Chesler
 <br>
-*June 13, 2019*
+*June 13, 2020*
 * A discussion how to make a product out of a machine learning idea. 
 Walking briefly through all of the things that need to be considered while building a machine learning project, beyond just building models.
 * Ryan is an organizer of the San Diego Machine Learning meetup and a Data Scientist working for H2O.ai developing automated machine learning systems. He is a Kaggle triple master and has taken several systems to production all the way from idea to deployment.
@@ -27,7 +25,7 @@ Walking briefly through all of the things that need to be considered while build
 
 **Intro to Text Summarization and Topic Segmentation** by Vibhu Sapra
 <br>
-*June 13, 2019*
+*June 13, 2020*
 * An introduction to text summarization and to different approaches towards topic segmentation. 
 The talk will cover the basics of how machine summarization works, applications of text summarization, code examples, and explore current state of the art models.
 * Vibhu is the founder of Byrd.ai and has been developing various NLP models for text summarization in a production setting.
@@ -35,21 +33,30 @@ The talk will cover the basics of how machine summarization works, applications 
 
 **Self-Driving Cars** by Ryan Chesler
 <br>
-*June 6, 2019*
+*June 6, 2020*
 * A discussion of the mechanisms and challenges involved in self-driving cars and what part machine learning plays in it.
 * Ryan is an organizer of the San Diego Machine Learning meetup and a Data Scientist working for H2O.ai developing automated machine learning systems. He is a Kaggle triple master and self-driving car enthusiast.
 * [video](https://www.youtube.com/watch?v=yAMygd-HZTU)
 
 **A Beginner's Overview of Spark and PySpark** by Ted Kyi
 <br>
-*May 30, 2019*
+*May 30, 2020*
 * A discussion of what Spark is, why you would use it, as well as details, key features, code examples and how to learn more about it.
 * Ted is vice president of analytics for Matrix Medical Network. https://www.linkedin.com/in/tedkyi/
 * The slides and PySpark notebook are available in Ted's GitHub repo https://github.com/tedkyi/spark_talk, unfortunately video not avaialable
 
-<br>
+### 2019 and earlier
+
+Prior to the global pandemic, we met in person and regrettably did not record any of our presentations.
+
+### Additional information
 
 For SDML book club notes and videos, please see the [book club repo](https://github.com/SanDiegoMachineLearning/bookclub).
+
+To stay in touch with San Diego Machine Learning and receive announcements of all of our events, join our Meetup group https://www.meetup.com/San-Diego-Machine-Learning.
+
+For more events, job postings, and discussion of machine learning, join our slack channel 
+https://join.slack.com/t/sdmachinelearning/shared_invite/zt-6b0ojqdz-9bG7tyJMddVHZ3Zm9IajJA.
 
 <br>
 <br>
