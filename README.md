@@ -15,7 +15,7 @@ Below are the links for SDML presentations and videos:
 <br>
 *June 20, 2019*
 * Most people have a superficial understanding of genetics, as it plays a causal role in who we are. In the first half of this talk, I will explain what the field of genetics is, how we do experiments and analyses, and the recent learnings and challenges in the field. In the second half of my talk, I will focus on genomics and epigenomics. These are two very hot areas in research, but are lesser known to non-experts. Again, I will explain the field, how we do experiments and analyses, and how machine learning has been and can be applied in this domain.
-* [Slides](./SDML genomics FNL.pdf) and [video](https://www.youtube.com/watch?v=NT9hBuBAexg)
+* [Slides](./SDML_genomics_FNL.pdf) and [video](https://www.youtube.com/watch?v=NT9hBuBAexg)
 
 **Productizing ML** by Ryan Chesler
 <br>
