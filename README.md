@@ -2,12 +2,21 @@ Below are the links for SDML presentations and videos:
 
 ### 2020
 
+**Lyft Motion Prediction for Autonomous Vehicles - A Kaggle Competition Recap** by Ryan Chesler
+<br>
+*November 28, 2020*
+* Come hear about the Lyft Motion Prediction for Autonomous Vehicles competition on Kaggle (https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles). This virtual meetup is scheduled just days after the competition closes.
+* From Kaggle:
+In this competition, you’ll apply your data science skills to build motion prediction models for self-driving vehicles. You'll have access to the largest Prediction Dataset ever released to train and test your models. Your knowledge of machine learning will then be required to predict how cars, cyclists, and pedestrians move in the AV's environment.
+* Ryan is an organizer of the San Diego Machine Learning meetup and a Data Scientist working for H2O.ai developing automated machine learning systems. He is a Kaggle triple master and self-driving car enthusiast.
+* [Slides](https://docs.google.com/presentation/d/1U3smjkPcGiit6EzqfyYnSxGdoCxj31EGdKyfDA2a0RI/edit#slide=id.p) and [video](https://youtu.be/ScjnDwghHGM)
+
 **A RapidMiner Overview** by Steven Fouskarinis
 <br>
 *November 14, 2020*
 * RapidMiner is a platform that is used by over 4,000 universities to teach machine learning concepts to students while not presuming those students can program. However, the platform is also used by over 40,000 organizations worldwide for commercial applications. Come and take a brief but informative guided tour of the RapidMiner coal mines from a user not a salesperson.
 * Steven Fouskarinis is an electrical engineer and computer scientist by training who works on scaling execution at a company level. Past projects include using NLP to infer ICDs & CPTs from clinical notes, automating medical bill creation and submission, predicting infusion pump misuse, and using a chatbot as a non-visual interface for research paper discovery.
-* [Slides](./SDML-RapidMiner_Overview.pdf) and the video will be uploaded soon
+* [Slides](./SDML-RapidMiner_Overview.pdf) and the [video](https://youtu.be/xJqkhWZ-e3A)
 
 **Genetics & Genomics** by Chris Keown
 <br>
