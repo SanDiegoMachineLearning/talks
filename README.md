@@ -2,6 +2,23 @@ Below are the links for SDML presentations and videos:
 
 ### 2020
 
+**Investment Analytics in the Dawn of Artificial Intelligence** by Bernard Lee \
+*December 12, 2020*
+* This talk attempts to answer a few questions:
+  1) Why artificial intelligence/machine learning (AI/ML) is helpful to certain fintech apps?
+  2) When AI/ML works well in fintech? When it may not work so well?
+  3) Apart from interesting theories, what are the practical prerequisites for AI/ML applications to perform well in real-life finance, to the point of replacing jobs?
+  4) Where society may end up if trusted AI/ML applications in fintech become widely available?
+  5) What may be the potential implications for me, my financial future, and my career?
+* Bernard Lee is the founder/CEO of HedgeSPA, whose mission is to revolutionize the landscape of professional investment analytics by democratizing access to the most sophisticated B2B investment analytics tool. HedgeSPA's core investment platform is unique in its utilization of Artificial Intelligence, Big Data, and High-Performance/Quantum Computing.
+* [Slides](./Bernard%20Lee%20Presentation%20for%20SDML%20(Distribution%20Copy).pdf) can be downloaded, however please contact Ted, the meetup organizer, for the password.
+
+**Neuroscience in the data science age** by Bradley Voytek \
+*December 8, 2020*
+* The brain is often likened to a symphony, where 86 billion neurons are coordinating in an unfathomably complex electrochemical orchestra. However, our brains are more like a symphony without a conductor: there is no leader orchestrating those 86 billion neurons! Despite this apparent chaos, our brains usually just work (if we're lucky!). My research lab leverages a data science approach to neuroscience in order to understand how these 86 billion neurons communicate with one another, and to figure out when, why, and how that process breaks down.
+* Bradley Voytek is an Associate Professor in the Department of Cognitive Science, the Halıcıoğlu Data Science Institute, and the Neurosciences Graduate Program at UC San Diego. He is both an Alfred P. Sloan Neuroscience Research Fellow and a Kavli Fellow of the National Academies of Sciences, as well as a founding faculty member of the UC San Diego Halıcıoğlu Data Science Institute and the Undergraduate Data Science program, where he serves as Vice-Chair.
+* [Slides](./Voytek-SD-meetup.pdf) and [video](https://youtu.be/vCxHGuQb5b0)
+
 **Lyft Motion Prediction for Autonomous Vehicles - A Kaggle Competition Recap** by Ryan Chesler
 <br>
 *November 28, 2020*
@@ -16,7 +33,7 @@ In this competition, you’ll apply your data science skills to build motion pre
 *November 14, 2020*
 * RapidMiner is a platform that is used by over 4,000 universities to teach machine learning concepts to students while not presuming those students can program. However, the platform is also used by over 40,000 organizations worldwide for commercial applications. Come and take a brief but informative guided tour of the RapidMiner coal mines from a user not a salesperson.
 * Steven Fouskarinis is an electrical engineer and computer scientist by training who works on scaling execution at a company level. Past projects include using NLP to infer ICDs & CPTs from clinical notes, automating medical bill creation and submission, predicting infusion pump misuse, and using a chatbot as a non-visual interface for research paper discovery.
-* [Slides](./SDML-RapidMiner_Overview.pdf) and the [video](https://youtu.be/xJqkhWZ-e3A)
+* [Slides](./SDML-RapidMiner_Overview.pdf) and [video](https://youtu.be/xJqkhWZ-e3A)
 
 **Genetics & Genomics** by Chris Keown
 <br>
@@ -30,7 +47,7 @@ In this competition, you’ll apply your data science skills to build motion pre
 * A discussion how to make a product out of a machine learning idea. 
 Walking briefly through all of the things that need to be considered while building a machine learning project, beyond just building models.
 * Ryan is an organizer of the San Diego Machine Learning meetup and a Data Scientist working for H2O.ai developing automated machine learning systems. He is a Kaggle triple master and has taken several systems to production all the way from idea to deployment.
-* [video](https://www.youtube.com/watch?v=hAtiPsShYMk)
+* [Video](https://www.youtube.com/watch?v=hAtiPsShYMk)
 
 **Intro to Text Summarization and Topic Segmentation** by Vibhu Sapra
 <br>
@@ -38,14 +55,14 @@ Walking briefly through all of the things that need to be considered while build
 * An introduction to text summarization and to different approaches towards topic segmentation. 
 The talk will cover the basics of how machine summarization works, applications of text summarization, code examples, and explore current state of the art models.
 * Vibhu is the founder of Byrd.ai and has been developing various NLP models for text summarization in a production setting.
-* [video](https://www.youtube.com/watch?v=hAtiPsShYMk)
+* [Video](https://www.youtube.com/watch?v=hAtiPsShYMk)
 
 **Self-Driving Cars** by Ryan Chesler
 <br>
 *June 6, 2020*
 * A discussion of the mechanisms and challenges involved in self-driving cars and what part machine learning plays in it.
 * Ryan is an organizer of the San Diego Machine Learning meetup and a Data Scientist working for H2O.ai developing automated machine learning systems. He is a Kaggle triple master and self-driving car enthusiast.
-* [video](https://www.youtube.com/watch?v=yAMygd-HZTU)
+* [Video](https://www.youtube.com/watch?v=yAMygd-HZTU)
 
 **A Beginner's Overview of Spark and PySpark** by Ted Kyi
 <br>
