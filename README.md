@@ -1,5 +1,16 @@
 Below are the links for SDML presentations and videos:
 
+### 2021
+
+**Rainforest Connection Species Audio Detection - A Kaggle Competition Recap** by Ryan Chesler
+<br>
+*March 13, 2021*
+* Come hear about the Rainforest Connection Species Audio Detection competition on Kaggle (https://www.kaggle.com/c/rfcx-species-audio-detection). This free, virtual meetup will discuss the recently completed competition.
+* From Kaggle:
+In this competition, you’ll automate the detection of bird and frog species in tropical soundscape recordings. You'll create your models with limited, acoustically complex training data. Rich in more than bird and frog noises, expect to hear an insect or two, which your model will need to filter out.
+* Ryan is an organizer of the San Diego Machine Learning meetup and a Data Scientist working for H2O.ai developing automated machine learning systems. He is a Kaggle grand master and self-driving car enthusiast.
+* [Slides](https://docs.google.com/presentation/d/1Pi36eq4NnFeQ19gTNYkyVEXMBs0PyW8LtM1RtuKenKQ/edit#slide=id.p) and [video](https://youtu.be/Vf_FIMDVs00)
+
 ### 2020
 
 **Investment Analytics in the Dawn of Artificial Intelligence** by Bernard Lee \
