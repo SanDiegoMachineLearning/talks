@@ -2,6 +2,12 @@ Below are the links for SDML presentations and videos:
 
 ### 2021
 
+**Explaining by Removing: A Unified Framework for Model Explanation** by Ian Covert \
+*April 13, 2021*
+* Researchers have proposed a wide variety of model explanation approaches, but it remains unclear how most methods are related or when one method is preferable to another. In this talk we'll discuss a new class of methods, removal-based explanations, that are based on the principle of simulating feature removal to quantify each feature’s influence. These methods vary in several respects, so we develop a framework that characterizes each method along three dimensions: 1) how the method removes features, 2) what model behavior the method explains, and 3) how the method summarizes each feature’s influence. Our framework unifies 25 existing methods, including several of the most widely used approaches (SHAP, LIME, Meaningful Perturbations, permutation tests), and it helps us reveal underlying connections with fields such as cognitive psychology, game theory and information theory.
+* Ian Covert is a PhD student at the University of Washington, where he is advised by Su-In Lee and collaborates with Scott Lundberg. His research focuses on explainable machine learning and the applications of these tools to problems in biology and medicine. Previously, he was a student researcher at Google Brain and completed his bachelors degree at Columbia University.
+* [Slides](./Explaining_by_Removing.pdf) and [video](https://youtu.be/ZbOSjimCZm0)
+
 **Rainforest Connection Species Audio Detection - A Kaggle Competition Recap** by Ryan Chesler
 <br>
 *March 13, 2021*
