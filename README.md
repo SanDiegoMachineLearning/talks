@@ -8,6 +8,13 @@ Below are the links for SDML presentations and videos:
 * Ian Covert is a PhD student at the University of Washington, where he is advised by Su-In Lee and collaborates with Scott Lundberg. His research focuses on explainable machine learning and the applications of these tools to problems in biology and medicine. Previously, he was a student researcher at Google Brain and completed his bachelors degree at Columbia University.
 * [Slides](./Explaining_by_Removing.pdf) and [video](https://youtu.be/ZbOSjimCZm0)
 
+**AutoNet: Automated Network Construction from Massive Text Corpora** by Jingbo Shang
+<br>
+*March 24, 2021*
+* Mining structured knowledge from massive unstructured text data is a key challenge in data science. In this talk, I will discuss my proposed framework, AutoNet, that transforms unstructured text data into structured heterogeneous information networks, on which actionable knowledge can be further uncovered flexibly and effectively. AutoNet is a data-driven approach using distant supervision instead of human curation and labeling. It consists of four essential steps: (1) quality phrase mining; (2) entity recognition and typing; (3) relation extraction; and (4) taxonomy construction.
+* Jingbo Shang is an Assistant Professor in Computer Science Engineering and Halıcıoğlu Data Science Institute at UC San Diego. His research has been recognized by many prestigious awards, including the Grand Prize of Yelp Dataset Challenge in 2015, Google Ph.D. Fellowship in Structured Data and Database Management in 2017, SIGKDD Dissertation Award Runner-up in 2020.
+* [Video](https://youtu.be/E69GTjnXjf0) has been uploaded to YouTube
+
 **Rainforest Connection Species Audio Detection - A Kaggle Competition Recap** by Ryan Chesler
 <br>
 *March 13, 2021*
