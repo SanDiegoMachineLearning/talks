@@ -2,6 +2,12 @@ Below are the links for SDML presentations and videos:
 
 ### 2021
 
+**A friendly introduction to PySpark MLlib (and a taste of MLFlow)** by Michelle Hoogenhout \
+*July 17, 2021*
+* Doing data science at scale? PySpark and MLlib bring the power of Spark's distributed processing to python users so that you can train machine learning models on massive datasets. MLlib provides tools for data extraction, transformation and loading, common ML algorithms, and model evaluation. And with the addition of MLFlow, it's easier than ever to log, reproduce and deploy your ML models. This walkthrough is aimed at those new to MLflow, and will take you through the ML lifecycle with PySpark's ML toolset.
+* Michelle Hoogenhout is a data scientist with a background in cognitive neuroscience and experimental design. She is a senior data science and analytics instructor at Galvanize and co-founder of Ingane Health, a data science consulting firm. Michelle holds a PhD (Psychology) from the University of Cape Town, South Africa and has published on topics such as statistics and data management, data science training methods, ethics, and cognitive and physiological assessment.
+* The recording is available at this [video link](https://youtu.be/spDmZAwBLAo)
+
 **Take a Hack at COVID!** by Benjamin Smarr \
 *April 21, 2021*
 * Professor Smarr is the technical lead on TemPredict, an international research effort aimed at building deployable algorithms for COVID detection and health monitoring. TemPredict gathered wearable and survey data from ~65,000 global participants. Professor Smarr will share some early insights, and highlight opportunities for interested hackers to get involved in future analyses.
