@@ -1,6 +1,10 @@
 Below are the links for SDML presentations and videos:
 
 ### 2021
+**State of the Art Machine Learning Algorithms for Tabular Data** by Ryan Chesler \
+*November 20, 2021*
+* In this talk, Kaggle Grandmaster Ryan Chesler will discuss state of the art models used for tabular machine learning. He will explain the data preprocessing steps as well as the algorithms and how the two interact. He will discuss the nuts and bolts of the algorithms as well as some benchmarks showing the performance of the various different methods.
+* [Video](https://youtu.be/8Tag8uEH_ds)
 
 **Evaluating Robustness of Neural Networks** by Lily Weng \
 *October 28, 2021*
