@@ -6,6 +6,7 @@ Below are the links for SDML presentations and videos:
 * A 4-part series of lectures on Probability and Statistics starting from the beginning and proceeding in an intuitive, but mathematically rigorous way. (Similar Machine Learning lectures could also be scheduled.)  The lectures should help Machine Learning practitioners and researchers to understand academic papers and to implement their methods. They should also help people pursuing academic paths in various scientific disciplines.
 * These lectures a being jointly hosted by Silicon Valley Hands On Programming Events (https://www.meetup.com/HandsOnProgrammingEvents/). 
 They were also delivered to Machine Learning Tokyo. 
+* Fill out this form to receive the notes and quizes by email:  https://form.typeform.com/to/tYqIEqGN
 * The topics are:
   1. *Feb. 8 [meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283748116/)* - Types of probability distributions and the need for a rigorous mathematical framework. Probability spaces, sample spaces, event spaces, and probability measures. Examples of probability spaces. 
   Here is the [video recording of the MLT lecture](https://youtu.be/MxZN5F8iYLM)
