@@ -1,5 +1,20 @@
 Below are the links for SDML presentations and videos:
 
+### 2022
+**Rigorous Probability and Statistics** by Michal Fabinger \
+*February 8, February 15, February 22, and March 1, 2022*
+* A 4-part series of lectures on Probability and Statistics starting from the beginning and proceeding in an intuitive, but mathematically rigorous way. (Similar Machine Learning lectures could also be scheduled.)  The lectures should help Machine Learning practitioners and researchers to understand academic papers and to implement their methods. They should also help people pursuing academic paths in various scientific disciplines.
+* These lectures a being jointly hosted by Silicon Valley Hands On Programming Events (https://www.meetup.com/HandsOnProgrammingEvents/). 
+They were also delivered to Machine Learning Tokyo. 
+* The topics are:
+  1. *Feb. 8 [meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283748116/)* - Types of probability distributions and the need for a rigorous mathematical framework. Probability spaces, sample spaces, event spaces, and probability measures. Examples of probability spaces. 
+  Here is the [video recording of the MLT lecture](https://youtu.be/MxZN5F8iYLM)
+  1. *Feb. 15 [meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283844144/)* - Sigma-algebras for events. Borel sigma-algebras for events corresponding to continuous sample spaces. Random variables. Examples of random variables. 
+  Here is the [video of the MLT session](https://youtu.be/G9Tmp_82esA)
+  1. *Feb. 22* - Distributions of random variables. Cumulative distribution functions, probability mass functions, and probability density functions. Examples of distributions.
+  1. *Mar. 1* - Transformations of random variables. Transformations of cumulative distribution functions, probability mass functions, and probability density functions. Examples of usage of transformed random variables.
+
+
 ### 2021
 **State of the Art Machine Learning Algorithms for Tabular Data** by Ryan Chesler \
 *November 20, 2021*
