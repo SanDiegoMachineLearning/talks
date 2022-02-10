@@ -9,10 +9,11 @@ They were also delivered to Machine Learning Tokyo.
 * Fill out this form to receive the notes and quizes by email:  https://form.typeform.com/to/tYqIEqGN
 * The topics are:
   1. *Feb. 8 [meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283748116/)* - Types of probability distributions and the need for a rigorous mathematical framework. Probability spaces, sample spaces, event spaces, and probability measures. Examples of probability spaces. 
-  Here is the [video recording of the MLT lecture](https://youtu.be/MxZN5F8iYLM)
+  Here is the [video recording of the MLT lecture](https://youtu.be/MxZN5F8iYLM).
   1. *Feb. 15 [meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283844144/)* - Sigma-algebras for events. Borel sigma-algebras for events corresponding to continuous sample spaces. Random variables. Examples of random variables. 
-  Here is the [video of the MLT session](https://youtu.be/G9Tmp_82esA)
-  1. *Feb. 22* - Distributions of random variables. Cumulative distribution functions, probability mass functions, and probability density functions. Examples of distributions.
+  Here is the [video of the MLT session](https://youtu.be/G9Tmp_82esA).
+  1. *Feb. 22* - Distributions of random variables. Cumulative distribution functions, probability mass functions, and probability density functions. Examples of distributions. 
+  The [video recording of the MLT lecture](https://youtu.be/Y6dPDJvcZrg).
   1. *Mar. 1* - Transformations of random variables. Transformations of cumulative distribution functions, probability mass functions, and probability density functions. Examples of usage of transformed random variables.
 
 
