@@ -15,6 +15,7 @@ They were also delivered to Machine Learning Tokyo.
   1. *Feb. 22* - Distributions of random variables. Cumulative distribution functions, probability mass functions, and probability density functions. Examples of distributions. 
   The [video recording of the MLT lecture](https://youtu.be/Y6dPDJvcZrg).
   1. *Mar. 1* - Transformations of random variables. Transformations of cumulative distribution functions, probability mass functions, and probability density functions. Examples of usage of transformed random variables.
+  Here's the [video of the MLT meetup](https://youtu.be/kdqYQM--rKM).
 
 
 ### 2021
