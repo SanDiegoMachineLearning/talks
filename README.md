@@ -1,6 +1,16 @@
 Below are the links for SDML presentations and videos:
 
 ### 2022
+
+**Rigorous Statistics for Academics and Practitioners** by Michal Fabinger \
+Michal is continuing Thursday evening lectures on statistics
+* Fill out this form to receive the notes and quizes by email (you only need to do this once, 
+but it is different from the initial 4-part series):  https://form.typeform.com/to/rep1RuEc
+* The first series was **Shapes and Moments of Probability Distributions**, on March 31 and April 7, 2022.
+The MLT recordings of this series are [Part 1](https://youtu.be/aR-kh5O5fOg) and [Part 2](https://youtu.be/BWn8tGO-noI).
+* The latest series is **Dependence of random variables and conditional distributions**, three parts starting April 14, 2022
+
+
 **Rigorous Probability and Statistics** by Michal Fabinger \
 *February 8, February 15, February 22, and March 1, 2022*
 * A 4-part series of lectures on Probability and Statistics starting from the beginning and proceeding in an intuitive, but mathematically rigorous way. (Similar Machine Learning lectures could also be scheduled.)  The lectures should help Machine Learning practitioners and researchers to understand academic papers and to implement their methods. They should also help people pursuing academic paths in various scientific disciplines.
