@@ -8,7 +8,9 @@ Michal is continuing Thursday evening lectures on statistics
 but it is different from the initial 4-part series):  https://form.typeform.com/to/rep1RuEc
 * The first series was **Shapes and Moments of Probability Distributions**, on March 31 and April 7, 2022.
 The MLT recordings of this series are [Part 1](https://youtu.be/aR-kh5O5fOg) and [Part 2](https://youtu.be/BWn8tGO-noI).
-* The latest series is **Dependence of random variables and conditional distributions**, three parts starting April 14, 2022
+* The second series is **Dependence of random variables and conditional distributions**, three parts starting April 14, 2022.
+Recordings from the Tokyo sessions are [Part 1](https://youtu.be/-nTYm21I_gM), [Part 2](https://youtu.be/14h5uSvoOv4), and [Part 3](https://youtu.be/OLxrtGk4tMg).
+* The third seris will be **Estimators, asymptotic theory, and types of convergence of random variables**, in two parts starting May 5, 2022.
 
 
 **Rigorous Probability and Statistics** by Michal Fabinger \
