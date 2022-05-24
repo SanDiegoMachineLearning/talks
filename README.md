@@ -11,7 +11,7 @@ The MLT recordings of this series are [Part 1](https://youtu.be/aR-kh5O5fOg) and
 * The second series is **Dependence of random variables and conditional distributions**, three parts starting April 14, 2022.
 Recordings from the Tokyo sessions are [Part 1](https://youtu.be/-nTYm21I_gM), [Part 2](https://youtu.be/14h5uSvoOv4), and [Part 3](https://youtu.be/OLxrtGk4tMg).
 * The third series will be **Estimators, asymptotic theory, and types of convergence of random variables**, in two parts starting May 5, 2022.
-The first session recording from MLT is now available:  [Part 1](https://youtu.be/hWGzEnYaPf8).
+The session recordings from MLT are now available:  [Part 1](https://youtu.be/hWGzEnYaPf8) and [Part 2](https://youtu.be/mT3WGyDDzhI).
 * The next series will be on **Hypothesis testing**, in two parts starting May 19, 2022.
 
 
