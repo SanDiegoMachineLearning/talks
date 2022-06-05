@@ -13,6 +13,7 @@ Recordings from the Tokyo sessions are [Part 1](https://youtu.be/-nTYm21I_gM), [
 * The third series will be **Estimators, asymptotic theory, and types of convergence of random variables**, in two parts starting May 5, 2022.
 The session recordings from MLT are now available:  [Part 1](https://youtu.be/hWGzEnYaPf8) and [Part 2](https://youtu.be/mT3WGyDDzhI).
 * The next series will be on **Hypothesis testing**, in two parts starting May 19, 2022.
+* The fifth series covers **Linear regression models**, in four parts starting June 2, 2022.
 
 
 **Rigorous Probability and Statistics** by Michal Fabinger \
