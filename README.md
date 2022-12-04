@@ -2,6 +2,12 @@ Below are the links for SDML presentations and videos:
 
 ### 2022
 
+**Hands-On Workshop on Training and Using Transformers** by Ryan Chesler \
+*Starting December 3, 2022 and running about 5 Saturdays (skipping the holidays)*
+* The transformer architecture that is taking over all of machine learning was initially used for NLP. This series will introduce the transformer and use Jupyter notebooks to walk through gathering data, loading models from HuggingFace, training, and fine-tuning transformer models for language tasks.
+* The first session reviewed the roadmap for the series, discussed why transformers are important, and went through a notebook showing the high level process of loading and training a transformer model.
+* [Video for session 1](https://youtu.be/QxNHoVqPly8) and [Week 1 Colab notebook](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTljTXdHVy1UZ1RMZUc4ZVZLZUtBRUlwQTB3QXxBQ3Jtc0ttWFg4dXJ0Vmp1OTZwMXBTZkJ6NTZzbnpqY1Z4Snl2MnhLNzBPd1o5bi1qcWl0M1NRNGNCZ3h3NkNmRDZRaWdNRmozM1VZX19uekwtNlBIaVZrS3k2YWdIYlZFWFVSTTM1RUp4WDhvdGE2aXQwN3JLYw&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1bSQwJ8HiyJh_v_TnBCJl_FoI7WWhzqI4%3Fusp%3Dsharing&v=QxNHoVqPly8)
+
 **Rigorous Statistics for Academics and Practitioners** by Michal Fabinger \
 Michal is continuing Thursday evening lectures on statistics
 * Fill out this form to receive the notes and quizes by email (you only need to do this once, 
