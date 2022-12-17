@@ -7,6 +7,8 @@ Below are the links for SDML presentations and videos:
 * The transformer architecture that is taking over all of machine learning was initially used for NLP. This series will introduce the transformer and use Jupyter notebooks to walk through gathering data, loading models from HuggingFace, training, and fine-tuning transformer models for language tasks.
 * The first session reviewed the roadmap for the series, discussed why transformers are important, and went through a notebook showing the high level process of loading and training a transformer model.
 * [Video for session 1](https://youtu.be/QxNHoVqPly8) and [Week 1 Colab notebook](https://colab.research.google.com/drive/1bSQwJ8HiyJh_v_TnBCJl_FoI7WWhzqI4?usp=sharing)
+* The second session discussed how text data gets used and walked through loading datasets in a pretraining notebook.
+* [Video for session 2](https://youtu.be/oXtq_mLFmeU) and [Week 2 Colab notebook](https://colab.research.google.com/drive/1HCwrZ93CeKJtAE4JfqA_IHLkVSJ8J8Nj?usp=sharing)
 
 **Rigorous Statistics for Academics and Practitioners** by Michal Fabinger \
 Michal is continuing Thursday evening lectures on statistics
