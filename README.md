@@ -1,5 +1,16 @@
 Below are the links for SDML presentations and videos:
 
+### 2023
+
+**Language Model Foundations** by Ted Kyi \
+*April 1, 2023*
+* With all the current hype surrounding large language models, we are going to take a step back in time and look at the GPT-3 paper Language Models are Few-Shot Learners (https://arxiv.org/abs/2005.14165). We will utilize video paper reviews, blogs, and architectural diagrams to provide a clear understanding of how GPT-style language models work. Come for a solid foundation how decoder-only transformers are used in language models, and to see how current discussions about LLMs echo the same debates that arose when GPT-3 came out.
+
+**Introduction to Transformers** by Ted Kyi \
+*February 18, 2023*
+* After learning the architecture of the transformer, you know the parts and how they work.  Through a coding example, pattern matching with a 1-D CNN will be compared to pattern matching using attention, with the goal of providing intuition as to why the self-attention mechanism makes neural networks so powerful.
+* [Video](https://youtu.be/mluRoOf-OTk) and [Jupyter notebook](https://colab.research.google.com/drive/1tQrG6IFw8B3xMv9lCZOFS23OTt2YuTXV?usp=sharing)
+
 ### 2022
 
 **Hands-On Workshop on Training and Using Transformers** by Ryan Chesler \
@@ -9,6 +20,9 @@ Below are the links for SDML presentations and videos:
 * [Video for session 1](https://youtu.be/QxNHoVqPly8) and [Week 1 Colab notebook](https://colab.research.google.com/drive/1bSQwJ8HiyJh_v_TnBCJl_FoI7WWhzqI4?usp=sharing)
 * The second session discussed how text data gets used and walked through loading datasets in a pretraining notebook.
 * [Video for session 2](https://youtu.be/oXtq_mLFmeU) and [Week 2 Colab notebook](https://colab.research.google.com/drive/1HCwrZ93CeKJtAE4JfqA_IHLkVSJ8J8Nj?usp=sharing)
+
+[Week 4 Colab notebook](https://colab.research.google.com/drive/1HCwrZ93CeKJtAE4JfqA_IHLkVSJ8J8Nj?usp=sharing)
+[Week 5 Colab notebook](https://colab.research.google.com/drive/1jXbapHzKQJWaWcXCnRNsN7xlXtYVUbtT?usp=sharing)
 
 **Rigorous Statistics for Academics and Practitioners** by Michal Fabinger \
 Michal is continuing Thursday evening lectures on statistics
