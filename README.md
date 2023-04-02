@@ -1,10 +1,13 @@
-Below are the links for SDML presentations and videos:
+Below are the links for SDML presentations and videos.
+For SDML book club notes and videos, please see the [book club repo](https://github.com/SanDiegoMachineLearning/bookclub).
+
 
 ### 2023
 
 **Language Model Foundations** by Ted Kyi \
 *April 1, 2023*
 * With all the current hype surrounding large language models, we are going to take a step back in time and look at the GPT-3 paper Language Models are Few-Shot Learners (https://arxiv.org/abs/2005.14165). We will utilize video paper reviews, blogs, and architectural diagrams to provide a clear understanding of how GPT-style language models work. Come for a solid foundation how decoder-only transformers are used in language models, and to see how current discussions about LLMs echo the same debates that arose when GPT-3 came out.
+* [Notes doc](https://docs.google.com/document/d/1EiiljsglzVRb0RfMlHI7Mm1DdTnNw4uKomN45LkkRrc/edit?usp=sharing)
 
 **Introduction to Transformers** by Ted Kyi \
 *February 18, 2023*
