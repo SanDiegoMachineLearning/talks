@@ -4,6 +4,16 @@ For SDML book club notes and videos, please see the [book club repo](https://git
 
 ### 2023
 
+**Kaggle Vesuvius Ink Detection -- Winning Solutions** \
+*June 17, 2023*
+* Come hear from the winning teams from the recently completed [Vesuvius Ink Detection competition on Kaggle](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection). The first place team will share about their solution and discuss a meta analysis of what other teams tried and seemed to work. Additional teams will be added to present as their schedules permit.
+* From Kaggle:
+Join the $1,000,000+ [Vesuvius Challenge](https://scrollprize.org/) to resurrect an ancient library from the ashes of a volcano. In this competition you are tasked with detecting ink from 3D X-ray scans and reading the contents. Thousands of scrolls were part of a library located in a Roman villa in Herculaneum, a town next to Pompeii. This villa was buried by the Vesuvius eruption nearly 2000 years ago. Due to the heat of the volcano, the scrolls were carbonized, and are now impossible to open without breaking them. There is a $700,000 grand prize available to the first team that can read these scrolls from a 3D X-ray scan.
+* The members of the winning team, Ryan Chesler, Aina Tersol, Alex Loftus, and Ted Kyi, are all San Diego Machine Learning regulars.
+* [Video recording](https://youtu.be/IWySc8s00P0) of the session
+* [Intro slides](https://github.com/tedkyi/talks/blob/master/Vesuvius%20Intro.pdf)
+* [Technical slides](https://docs.google.com/presentation/d/1YZ_KfjSm9tbzXisOwVBalJ-WVlvOF65iugZa73I8MuI/edit?usp=drivesdk)
+
 **Language Model Foundations** by Ted Kyi \
 *April 1, 2023*
 * With all the current hype surrounding large language models, we are going to take a step back in time and look at the GPT-3 paper Language Models are Few-Shot Learners (https://arxiv.org/abs/2005.14165). We will utilize video paper reviews, blogs, and architectural diagrams to provide a clear understanding of how GPT-style language models work. Come for a solid foundation how decoder-only transformers are used in language models, and to see how current discussions about LLMs echo the same debates that arose when GPT-3 came out.
