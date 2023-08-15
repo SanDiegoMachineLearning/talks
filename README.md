@@ -4,6 +4,19 @@ For SDML book club notes and videos, please see the [book club repo](https://git
 
 ### 2023
 
+**Kaggle Competition Recap -- Identify Contrails to Reduce Global Warming** by Ryan Chesler \
+*August 19, 2023*
+* Come hear about the recently completed [Google Research - Identify Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming) competition on Kaggle. 
+This free, virtual meetup will discuss the successful approaches used in this image segmentation competition.
+* From Kaggle:
+Contrails are clouds of ice crystals that form in aircraft engine exhaust. 
+They can contribute to global warming by trapping heat in the atmosphere. 
+Researchers have developed models to predict when contrails will form and how much warming they will cause. 
+However, they need to validate these models with satellite imagery. 
+Your work will help researchers improve the accuracy of their contrail models. 
+This will help airlines avoid creating contrails and reduce their impact on climate change.
+* Ryan Chesler is a 2x Kaggle Grandmaster. He is an organizer of the San Diego Machine Learning meetup and a Data Scientist working for H2O.ai.
+
 **Kaggle Vesuvius Ink Detection -- Winning Solutions** \
 *June 17, 2023*
 * Come hear from the winning teams from the recently completed [Vesuvius Ink Detection competition on Kaggle](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection). The first place team will share about their solution and discuss a meta analysis of what other teams tried and seemed to work. Additional teams will be added to present as their schedules permit.
