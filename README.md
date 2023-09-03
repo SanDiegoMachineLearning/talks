@@ -4,6 +4,13 @@ For SDML book club notes and videos, please see the [book club repo](https://git
 
 ### 2023
 
+**ICML Conference Highlights** by Alex Loftus \
+*September 2, 2023*
+* Alex Loftus shares from his experience at this year's [ICML Conference](https://icml.cc/).
+This talk will be about new machine learning techniques in drug discovery and medicine presented at ICML. The general themes were molecule generation with diffusion; retrosynthesis, e.g., chemical synthesis planning; molecule representation learning; molecular property prediction; and LLMs for sequence infilling.
+* Alex is a data scientist working at a company using machine learning to speed up the drug discovery process. He holds an undergraduate degree in neuroscience with minors in chemistry and philosophy at Western Washington University, and a master's in biomedical engineering with a data science concentration from Johns Hopkins University.
+* [Slides](https://docs.google.com/presentation/d/1t7qfAU5TXDpYLqNx3tRbk2khwNygyGt9CTkHqY6W0Fw/edit?usp=sharing)
+
 **Kaggle Competition Recap -- Identify Contrails to Reduce Global Warming** by Ryan Chesler \
 *August 19, 2023*
 * Come hear about the recently completed [Google Research - Identify Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming) competition on Kaggle. 
