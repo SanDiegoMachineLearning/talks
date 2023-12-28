@@ -4,6 +4,32 @@ For SDML book club notes and videos, please see the **[SDML book club repo](http
 
 ### 2023
 
+**ML Papers and Lightning Talks** \
+Monthly discussions of interesting ML papers and other ML lightning talks
+* **November**:  \
+Ryan discussed *PDFTriage* (https://arxiv.org/abs/2309.08872) and *PseudoSeg* (https://arxiv.org/abs/2010.09713). \
+Ted discussed *Phi-1.5* (https://arxiv.org/abs/2309.05463) and *3D Gaussian Splatting* (https://arxiv.org/abs/2308.04079). \
+Links to [Ryan's slides](./papers/Interesting%20Papers%20202311.pdf) and [Ted's slides](./papers/ML_Paper_Review_202311.pdf).
+* **December**: \
+Ted discussed *Efficient Streaming Language Models with Attention Sinks* (https://arxiv.org/abs/2309.17453). \
+Ryan discussed *SimMIM: A Simple Framework for Masked Image Modeling* (https://arxiv.org/abs/2111.09886). \
+Links to [Ted's slides](./papers/ML_Paper_Review_202312.pdf) and [Ryan's slides](./papers/SimMIM.pdf).
+
+**State of the Art in Knowledge Editing** by Alex Loftus \
+*October 21, 2023*
+* Work across many subfields of machine learning has become increasingly reliant on billion parameter-scale models.
+If we can find methods to update these models without spending the time and computation necessary to run full fine-tuning sessions,
+we unlock customization previously only possible with industry-scale compute power.
+A parallel and related question is in interpretability:
+Where does knowledge live in these giant models? How is it stored, and can we find interpretable directions in their weight-space?
+* Join us for an exploration of the research surrounding these questions.
+We'll explore work coming out of Jacob Andreas' lab at MIT, Christopher Manning at Stanford, Jacob Steinhardt's lab at Berkeley,
+and Ludwig Schmidt's group at the University of Washington. 
+We'll also look at some open-source work being done by EleutherAI as well as
+knowledge-editing work in natural language processing done by the Allen Institute for AI's Israeli team.
+* Alex is a data scientist working at a company using machine learning to speed up the drug discovery process. He holds an undergraduate degree in neuroscience with minors in chemistry and philosophy at Western Washington University, and a master's in biomedical engineering with a data science concentration from Johns Hopkins University.
+* [Video](https://youtu.be/q9mC3T2aBL8)
+
 **Contrastive Inference Methods** by Sean O'Brien \
 *October 16, 2023*
 * The rapidly increasing scale of large language models (LLMs) and their training corpora has led to remarkable improvements in fluency, reasoning, and information recall. Still, these models are prone to hallucination and fundamental reasoning errors, and reliably eliciting desired behaviors from them can be challenging. The development of strategies like chain-of-thought and self-consistency have since demonstrated that training-free techniques can extract better behavior from existing models, launching a wave of research into prompting techniques. In this talk, we will examine a separate, emerging class of training-free techniques also intended to better control LLM behavior, which can be called contrastive inference methods. These techniques achieve improvements across a number of tasks by exploiting the behavioral differences between two different inference processes; in the case of contrastive decoding, between a large “expert” model and a smaller “amateur” model. While this talk will mostly focus on contrastive decoding, it will also introduce similar methods and discuss applications beyond the domain of text generation.
@@ -59,9 +85,11 @@ Join the $1,000,000+ [Vesuvius Challenge](https://scrollprize.org/) to resurrect
 * [Video for session 1](https://youtu.be/QxNHoVqPly8) and [Week 1 Colab notebook](https://colab.research.google.com/drive/1bSQwJ8HiyJh_v_TnBCJl_FoI7WWhzqI4?usp=sharing)
 * The second session discussed how text data gets used and walked through loading datasets in a pretraining notebook.
 * [Video for session 2](https://youtu.be/oXtq_mLFmeU) and [Week 2 Colab notebook](https://colab.research.google.com/drive/1HCwrZ93CeKJtAE4JfqA_IHLkVSJ8J8Nj?usp=sharing)
-
-[Week 4 Colab notebook](https://colab.research.google.com/drive/1HCwrZ93CeKJtAE4JfqA_IHLkVSJ8J8Nj?usp=sharing)
-[Week 5 Colab notebook](https://colab.research.google.com/drive/1jXbapHzKQJWaWcXCnRNsN7xlXtYVUbtT?usp=sharing)
+* Model pretraining [Video for session 3](https://youtu.be/UhvRu6GthAs)
+* Model fine-tuning [Video for session 4](https://youtu.be/k69527MtjV4) 
+and [Week 4 Colab notebook](https://colab.research.google.com/drive/1HCwrZ93CeKJtAE4JfqA_IHLkVSJ8J8Nj?usp=sharing) 
+* Inference and deployment [Video for session 5](https://youtu.be/zhW995EJ--0)
+and [Week 5 Colab notebook](https://colab.research.google.com/drive/1jXbapHzKQJWaWcXCnRNsN7xlXtYVUbtT?usp=sharing)
 
 **Rigorous Statistics for Academics and Practitioners** by Michal Fabinger \
 Michal is continuing Thursday evening lectures on statistics
