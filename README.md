@@ -2,6 +2,15 @@ Below are the links for SDML presentations and videos.
 For SDML book club notes and videos, please see the **[SDML book club repo](https://github.com/SanDiegoMachineLearning/bookclub)**.
 
 
+### 2024
+
+**ML Papers and Lightning Talks** \
+Monthly discussions of interesting ML papers and other ML lightning talks
+* **January**:  \
+Ted discussed *Jailbroken: How Does LLM Safety Training Fail?* (https://arxiv.org/abs/2307.02483). \
+Ryan discussed *PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU* (https://arxiv.org/abs/2312.12456). \
+Links to [Ted's slides](./papers/ML_Paper_Review_202401_Jailbroken.pdf).
+
 ### 2023
 
 **ML Papers and Lightning Talks** \
