@@ -285,7 +285,7 @@ For SDML book club notes and videos, please see the [book club repo](https://git
 To stay in touch with San Diego Machine Learning and receive announcements of all of our events, join our Meetup group https://www.meetup.com/San-Diego-Machine-Learning.
 
 For more events, job postings, and discussion of machine learning, join our slack channel 
-https://join.slack.com/t/sdmachinelearning/shared_invite/zt-6b0ojqdz-9bG7tyJMddVHZ3Zm9IajJA.
+https://join.slack.com/t/sdmachinelearning/shared_invite/zt-2b2207qhg-Iyys1g0Ot6iErTYMioV9Mg
 
 <br>
 <br>
