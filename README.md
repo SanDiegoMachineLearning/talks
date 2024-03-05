@@ -7,9 +7,16 @@ For SDML book club notes and videos, please see the **[SDML book club repo](http
 **ML Papers and Lightning Talks** \
 Monthly discussions of interesting ML papers and other ML lightning talks
 * **January**:  \
-Ted discussed *Jailbroken: How Does LLM Safety Training Fail?* (https://arxiv.org/abs/2307.02483). \
 Ryan discussed *PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU* (https://arxiv.org/abs/2312.12456). \
-Links to [Ted's slides](./papers/ML_Paper_Review_202401_Jailbroken.pdf).
+Ted discussed *Jailbroken: How Does LLM Safety Training Fail?* (https://arxiv.org/abs/2307.02483). \
+[Video](https://youtu.be/YZWV8s4K4zw) and link to [Ted's slides](./papers/ML_Paper_Review_202401_Jailbroken.pdf).
+* **February**:  \
+Shibo Hao discussed his paper *ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings* (https://arxiv.org/abs/2305.11554). \
+[Video recording of the session](https://youtu.be/_THNEMzG-wM)
+* **March**:  \
+Ryan discussed *Kosmos-2.5: A Multimodal Literate Model* (https://arxiv.org/abs/2309.11419). \
+Ted discussed *Understanding Generalization through Visualizations* (https://arxiv.org/abs/1906.03291). \
+[Video](https://youtu.be/zlfpfmel6O8) and link to [Ted's slides](./papers/ML_Paper_Review_202403_Generalization.pdf).
 
 ### 2023
 
@@ -18,11 +25,11 @@ Monthly discussions of interesting ML papers and other ML lightning talks
 * **November**:  \
 Ryan discussed *PDFTriage* (https://arxiv.org/abs/2309.08872) and *PseudoSeg* (https://arxiv.org/abs/2010.09713). \
 Ted discussed *Phi-1.5* (https://arxiv.org/abs/2309.05463) and *3D Gaussian Splatting* (https://arxiv.org/abs/2308.04079). \
-Links to [Ryan's slides](./papers/Interesting%20Papers%20202311.pdf) and [Ted's slides](./papers/ML_Paper_Review_202311.pdf).
+[Video](https://youtu.be/pi_yaKUlhSU) and links to [Ryan's slides](./papers/Interesting%20Papers%20202311.pdf) and [Ted's slides](./papers/ML_Paper_Review_202311.pdf).
 * **December**: \
 Ted discussed *Efficient Streaming Language Models with Attention Sinks* (https://arxiv.org/abs/2309.17453). \
 Ryan discussed *SimMIM: A Simple Framework for Masked Image Modeling* (https://arxiv.org/abs/2111.09886). \
-Links to [Ted's slides](./papers/ML_Paper_Review_202312.pdf) and [Ryan's slides](./papers/SimMIM.pdf).
+[Video](https://youtu.be/jHy-cv5C0MI) and links to [Ted's slides](./papers/ML_Paper_Review_202312.pdf) and [Ryan's slides](./papers/SimMIM.pdf).
 
 **State of the Art in Knowledge Editing** by Alex Loftus \
 *October 21, 2023*
