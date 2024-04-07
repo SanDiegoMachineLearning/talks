@@ -17,6 +17,10 @@ Shibo Hao discussed his paper *ToolkenGPT: Augmenting Frozen Language Models wit
 Ryan discussed *Kosmos-2.5: A Multimodal Literate Model* (https://arxiv.org/abs/2309.11419). \
 Ted discussed *Understanding Generalization through Visualizations* (https://arxiv.org/abs/1906.03291). \
 [Video](https://youtu.be/zlfpfmel6O8) and link to [Ted's slides](./papers/ML_Paper_Review_202403_Generalization.pdf).
+* **April**:  \
+Ted discussed parameter efficient fine-tuning (PEFT) and  *DoRA: Weight-Decomposed Low-Rank Adaptation* (https://arxiv.org/abs/2402.09353). \
+Ryan discussed *Mixture-of-Depths: Dynamically allocating compute in transformer-based language models* (https://arxiv.org/abs/2404.02258). \
+Video (coming soon) and links to [Ted's slides](./papers/ML_Paper_Review_202404_DoRA.pdf) and [Ryan's slides](./papers/Mixture%20of%20Depths.pdf).
 
 ### 2023
 
