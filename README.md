@@ -20,7 +20,19 @@ Ted discussed *Understanding Generalization through Visualizations* (https://arx
 * **April**:  \
 Ted discussed parameter efficient fine-tuning (PEFT) and  *DoRA: Weight-Decomposed Low-Rank Adaptation* (https://arxiv.org/abs/2402.09353). \
 Ryan discussed *Mixture-of-Depths: Dynamically allocating compute in transformer-based language models* (https://arxiv.org/abs/2404.02258). \
-Video (coming soon) and links to [Ted's slides](./papers/ML_Paper_Review_202404_DoRA.pdf) and [Ryan's slides](./papers/Mixture%20of%20Depths.pdf).
+[Video](https://youtu.be/DnlvLbDPR6c) and links to [Ted's slides](./papers/ML_Paper_Review_202404_DoRA.pdf) and [Ryan's slides](./papers/Mixture%20of%20Depths.pdf).
+* **May**:  \
+Ted discussed *Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention* (https://arxiv.org/abs/2404.07143). \
+Ryan discussed *AM-RADIO: Agglomerative Vision Foundation Model -- Reduce All Domains Into One* (https://arxiv.org/abs/2312.06709). \
+[Video](https://youtu.be/6xXchgULI0c) and link to [Ted's slides](./papers/ML_Paper_Review_202405_long_context.pdf)
+* **June**:  \
+Ted discussed *Better & Faster Large Language Models via Multi-token Prediction* (https://arxiv.org/abs/2404.19737). \
+Ryan discussed *RemoteCLIP: A Vision Language Foundation Model for Remote Sensing* (https://arxiv.org/abs/2306.11029). \
+[Video](https://youtu.be/MFOb9sh9geY) and links to [Ted's slides](./papers/ML_Paper_Review_202406_multi_token_pred.pdf).
+* **July**:  \
+Sonali Tamhankar discussed Machine learning in healthcare. \
+Ryan discussed *Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue* (https://arxiv.org/abs/2406.06399). \
+[Video](https://youtu.be/_V67S3Jzwvg) and links to [Sonali's slides](./papers/Sonali%20Tamhankar%20DSS%20SF.pdf) and [Ryan's slides](./papers/Should%20We%20Fine-Tune%20or%20RAG.pdf).
 
 ### 2023
 
