@@ -33,6 +33,10 @@ Ryan discussed *RemoteCLIP: A Vision Language Foundation Model for Remote Sensin
 Sonali Tamhankar discussed Machine learning in healthcare. \
 Ryan discussed *Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt LLMs for Dialogue* (https://arxiv.org/abs/2406.06399). \
 [Video](https://youtu.be/_V67S3Jzwvg) and links to [Sonali's slides](./papers/Sonali%20Tamhankar%20DSS%20SF.pdf) and [Ryan's slides](./papers/Should%20We%20Fine-Tune%20or%20RAG.pdf).
+* **August**:  \
+Ted discussed *Stealing Part of a Production Language Model* (https://arxiv.org/abs/2403.06634). \
+Liam Barstad discussed Key Machine Learning Concepts. \
+[Video](https://youtu.be/nM-aCn52fQE) and links to [Ted's slides](./papers/ML_Paper_Review_202408_stealing_part_of_llm.pdf) and [Liam's slides](./papers/Machine_Learning_Key_Concepts.pdf).
 
 ### 2023
 
