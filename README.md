@@ -38,7 +38,7 @@ Ted discussed *Stealing Part of a Production Language Model* (https://arxiv.org/
 Liam Barstad discussed Key Machine Learning Concepts. \
 [Video](https://youtu.be/nM-aCn52fQE) and links to [Ted's slides](./papers/ML_Paper_Review_202408_stealing_part_of_llm.pdf) and [Liam's slides](./papers/Machine_Learning_Key_Concepts.pdf).
 * **September**:  \
-Anna Maralenko and Fae Gaze discussed the SDML-KIP work they did on the recent LMSYS competition on Kaggle. \
+Anna Malyarenko and Fae Gaze discussed the SDML-KIP work they did on the recent LMSYS competition on Kaggle. \
 Ryan discussed *TextGrad: Automatic "Differentiation" via Text* (https://arxiv.org/abs/2406.07496). \
 Links to [Ryan's slides](./papers/TextGrad_Automatic_Differentiation_via_Text.pdf).
 * **October**:  \
