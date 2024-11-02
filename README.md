@@ -37,6 +37,14 @@ Ryan discussed *Should We Fine-Tune or RAG? Evaluating Different Techniques to A
 Ted discussed *Stealing Part of a Production Language Model* (https://arxiv.org/abs/2403.06634). \
 Liam Barstad discussed Key Machine Learning Concepts. \
 [Video](https://youtu.be/nM-aCn52fQE) and links to [Ted's slides](./papers/ML_Paper_Review_202408_stealing_part_of_llm.pdf) and [Liam's slides](./papers/Machine_Learning_Key_Concepts.pdf).
+* **September**:  \
+Anna Maralenko and Fae Gaze discussed the SDML-KIP work they did on the recent LMSYS competition on Kaggle. \
+Ryan discussed *TextGrad: Automatic "Differentiation" via Text* (https://arxiv.org/abs/2406.07496). \
+Links to [Ryan's slides](./papers/TextGrad_Automatic_Differentiation_via_Text.pdf).
+* **October**:  \
+Ted discussed *Writing in the Margins: Better Inference Pattern for Long Context Retrieval* (https://www.arxiv.org/abs/2408.14906). \
+Ryan discussed *Aurora: A Foundation Model of the Atmosphere* (https://arxiv.org/abs/2405.13063). \
+Links to [Ted's slides](./papers/ML_Paper_Review_202410_writing_in_the_margins.pdf) and [Ryan's slides](./papers/AURORA_a_foundation_model_of_the_atmosphere.pdf).
 
 ### 2023
 
