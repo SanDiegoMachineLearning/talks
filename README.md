@@ -45,6 +45,10 @@ Links to [Ryan's slides](./papers/TextGrad_Automatic_Differentiation_via_Text.pd
 Ted discussed *Writing in the Margins: Better Inference Pattern for Long Context Retrieval* (https://www.arxiv.org/abs/2408.14906). \
 Ryan discussed *Aurora: A Foundation Model of the Atmosphere* (https://arxiv.org/abs/2405.13063). \
 Links to [Ted's slides](./papers/ML_Paper_Review_202410_writing_in_the_margins.pdf) and [Ryan's slides](./papers/AURORA_a_foundation_model_of_the_atmosphere.pdf).
+* **November**:  \
+Ryan discussed *Foundation Models for Generalist Geospatial Artificial Intelligence* (https://arxiv.org/abs/2310.18660). \
+Ted discussed Multi-head Latent Attention from *DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model* (https://arxiv.org/abs/2405.04434). \
+Links to [Ryan's slides](./papers/Foundation_Models_for_Generalist_Geospatial_Artificial_Intelligence.pdf) and [Ted's slides](./papers/ML_Paper_Review_202411_multi-head_latent_attn.pdf).
 
 ### 2023
 
