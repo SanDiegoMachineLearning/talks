@@ -2,6 +2,10 @@ Below are the links for SDML presentations and videos.
 For SDML book club notes and videos, please see the **[SDML book club repo](https://github.com/SanDiegoMachineLearning/bookclub)**.
 
 
+### 2025
+
+Please let us know if you have a topic you would like to share about in either a long (\~30 minute) or short (\~5-10 minutes) talk.
+
 ### 2024
 
 **ML Papers and Lightning Talks** \
@@ -49,6 +53,10 @@ Ryan discussed *Aurora: A Foundation Model of the Atmosphere* (https://arxiv.org
 Ryan discussed *Foundation Models for Generalist Geospatial Artificial Intelligence* (https://arxiv.org/abs/2310.18660). \
 Ted discussed Multi-head Latent Attention from *DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model* (https://arxiv.org/abs/2405.04434). \
 [Video](https://youtu.be/xPGvxE_hGd4) and links to [Ryan's slides](./papers/Foundation_Models_for_Generalist_Geospatial_Artificial_Intelligence.pdf) and [Ted's slides](./papers/ML_Paper_Review_202411_multi-head_latent_attn.pdf).
+* **December**:  \
+Ryan discussed *MAGVIT: Masked Generative Video Transformer* (https://arxiv.org/abs/2212.05199). \
+Ted discussed *SAM 2: Segment Anything in Images and Videos* (https://arxiv.org/abs/2408.00714). \
+[Video](https://youtu.be/Ni62_K1t9HY) and links to [Ryan's slides](./papers/MAGVIT_Masked_Generative_Video_Transformer.pdf) and [Ted's slides](./papers/ML_Paper_Review_202412_segment_anything.pdf).
 
 ### 2023
 
