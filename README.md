@@ -4,6 +4,14 @@ For SDML book club notes and videos, please see the **[SDML book club repo](http
 
 ### 2025
 
+**ML Papers and Lightning Talks** \
+Monthly discussions of interesting ML papers and other ML lightning talks
+* **February**:  \
+Ted discussed *Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction* (https://arxiv.org/abs/2404.02905). \
+Ryan discussed *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning* (https://arxiv.org/abs/2501.12948). \
+[Video](https://youtu.be/j4O3g3DxvKE) and link to [Ted's slides](./papers/ML_Paper_Review_202502_visual_autoregressive.pdf)
+and [Ryan's slides](./papers/DeepSeek-R1_Incentivizing_Reasoning_Capability_in_LLMs_via_Reinforcement_Learning.pdf).
+
 Please let us know if you have a topic you would like to share about in either a long (\~30 minute) or short (\~5-10 minutes) talk.
 
 ### 2024
