@@ -12,6 +12,17 @@ Ryan discussed *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Rein
 [Video](https://youtu.be/j4O3g3DxvKE) and link to [Ted's slides](./papers/ML_Paper_Review_202502_visual_autoregressive.pdf)
 and [Ryan's slides](./papers/DeepSeek-R1_Incentivizing_Reasoning_Capability_in_LLMs_via_Reinforcement_Learning.pdf).
 
+* **March**:  \
+Ryan discussed *GAIA: a benchmark for General AI Assistants* (https://arxiv.org/abs/2311.12983). \
+Sophin Liu shared a fun probability problem for the game Rock, paper, scissors, minus one. \
+[Video](https://youtu.be/cb-5al2__wA) and [Ryan's slides]().
+
+* **April**:  \
+Alex Chaushev discussed An Application of ML in Astronomy: Exoplanet Identification. \
+Ted discussed *On the Biology of a Large Language Model* (https://transformer-circuits.pub/2025/attribution-graphs/biology.html). \
+[Video](https://youtu.be/fE84sZnrLJA) and link to [Alex's slides](./papers/Applications_of_ML_in_Astronomy.pdf)
+and [Ted's slides](./papers/ML_Paper_Review_202504_biology_of_a_LLM.pdf)
+
 Please let us know if you have a topic you would like to share about in either a long (\~30 minute) or short (\~5-10 minutes) talk.
 
 ### 2024
