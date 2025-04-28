@@ -15,7 +15,7 @@ and [Ryan's slides](./papers/DeepSeek-R1_Incentivizing_Reasoning_Capability_in_L
 * **March**:  \
 Ryan discussed *GAIA: a benchmark for General AI Assistants* (https://arxiv.org/abs/2311.12983). \
 Sophin Liu shared a fun probability problem for the game Rock, paper, scissors, minus one. \
-[Video](https://youtu.be/cb-5al2__wA) and [Ryan's slides]().
+[Video](https://youtu.be/cb-5al2__wA) and [Ryan's slides](./papers/GAIA.pdf).
 
 * **April**:  \
 Alex Chaushev discussed An Application of ML in Astronomy: Exoplanet Identification. \
