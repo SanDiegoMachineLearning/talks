@@ -1,6 +1,8 @@
 Below are the links for SDML presentations and videos.
 For SDML book club notes and videos, please see the **[SDML book club repo](https://github.com/SanDiegoMachineLearning/bookclub)**.
 
+Please let us know if you have a topic you would like to share about in either a long (\~30 minute) or short (\~5-10 minutes) talk.
+
 
 ### 2025
 
@@ -23,7 +25,20 @@ Ted discussed *On the Biology of a Large Language Model* (https://transformer-ci
 [Video](https://youtu.be/fE84sZnrLJA) and link to [Alex's slides](./papers/Applications_of_ML_in_Astronomy.pdf)
 and [Ted's slides](./papers/ML_Paper_Review_202504_biology_of_a_LLM.pdf)
 
-Please let us know if you have a topic you would like to share about in either a long (\~30 minute) or short (\~5-10 minutes) talk.
+* **May**:  \
+Ryan discussed *Measuring AI Ability to Complete Long Tasks* (https://arxiv.org/abs/2503.14499) \
+Ted discussed *Describe Anything* (https://arxiv.org/abs/2504.16072). \
+[Video](https://youtu.be/abbUG0RUd5U) and [Ted's slides](./papers/ML_Paper_Review_202505_describe_anything.pdf)
+
+* **June**:  \
+Ryan did a Kaggle competition recap: BYU - Locating Bacterial Flagellar Motors 2025 (https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025) \
+Anya Myalarenko discussed *Large Concept Models: Language Modeling in a Sentence Representation Space* (https://arxiv.org/abs/2412.08821). \
+[Video](https://youtu.be/BH5g0wx9AJ4)
+
+* **September**:  \
+Adarsh Mateti discussed the ARC-AGI challenge
+[Video](https://youtu.be/wWW_fiL3tpQ?si=QNlSSi43VGMp9CMV) and [slides](./ARC-AGI.pdf)
+
 
 ### 2024
 
