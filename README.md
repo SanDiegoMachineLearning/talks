@@ -36,7 +36,7 @@ Anya Myalarenko discussed *Large Concept Models: Language Modeling in a Sentence
 [Video](https://youtu.be/BH5g0wx9AJ4)
 
 * **September**:  \
-Adarsh Mateti discussed the ARC-AGI challenge
+Adarsh Mateti discussed the ARC-AGI challenge \
 [Video](https://youtu.be/wWW_fiL3tpQ?si=QNlSSi43VGMp9CMV) and [slides](./ARC-AGI.pdf)
 
 
