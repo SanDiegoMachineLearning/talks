@@ -37,7 +37,17 @@ Anya Myalarenko discussed *Large Concept Models: Language Modeling in a Sentence
 
 * **September**:  \
 Adarsh Mateti discussed the ARC-AGI challenge \
-[Video](https://youtu.be/wWW_fiL3tpQ?si=QNlSSi43VGMp9CMV) and [slides](./ARC-AGI.pdf)
+[Video](https://youtu.be/wWW_fiL3tpQ?si=QNlSSi43VGMp9CMV) and [slides](./ARC-AGI.pdf) 
+
+**Kaggle competition recap: CMI - Detect Behavior with Sensor Data** \
+*October, 2025* \
+Ryan presented an overview of his gold medal solution and reviewed other top solutions \
+[Video](https://youtu.be/ft_qGXOZP54) and [slides](https://docs.google.com/presentation/d/12cLa05H2Og7lSKIS5UAfJl_5r3e58-YvS6qvlxVIzQo/edit?slide=id.p#slide=id.p)
+
+**NeurIPS Summary** \
+*December 13, 2025* \
+Ted summarized some of the trends, papers, and talks from this year's NeurIPS conference \
+[Slides](./NeurIPS_202512.pdf)
 
 
 ### 2024
