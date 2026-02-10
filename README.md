@@ -4,6 +4,35 @@ For SDML book club notes and videos, please see the **[SDML book club repo](http
 Please let us know if you have a topic you would like to share about in either a long (\~30 minute) or short (\~5-10 minutes) talk.
 
 
+### 2026
+
+**ML Papers and Lightning Talks** \
+Monthly discussions of interesting ML papers and other ML lightning talks \
+**February**:  
+* Zachary Gillett presented *Building a Hybrid ML/LLM Classification System*. 
+* Arman Ommid demoed work on modeling states between two poses, used to accelerate animation in computer gaming. 
+* Tony Sclafani discussed the DeepSeek OCR models (https://arxiv.org/abs/2510.18234 and https://arxiv.org/abs/2601.20552). 
+* [Video](https://youtu.be/w56tiKx9Gz4) and [Zack's slides](./Customs_Edge.pdf) and [Tony's slides](./papers/DeepSeek-OCR.pdf) 
+
+**Survey of AI Coding Tools** \
+*January 31, 2025* \
+AI coding tools have had a huge impact on the field but it seems like there is a new major release every week and it is hard to keep up. 
+Ryan Chesler will walk through some of the tools and how people use them.
+
+Cursor, Windsurf, Devin, VS Code Agents, Claude Code, Google Antigravity, Clawd, Ralph, Github Copilot, Codex, Amp, Cline, 
+Code Rabbit, Replit, Baseten, Bolt, Lovable, Vercel, Wix Harmony, Squarespace Blueprint \
+[Video](https://youtu.be/a8xGkvj44ZQ) and [slides](https://docs.google.com/presentation/d/1gNvrxQX8O0to9Jjlj9AroqHuOnfkcBuElnJ6TeEDQ7A/edit?usp=sharing)
+
+**History of Optical Character Recognition** \
+*January 17, 2025* \
+In this week's meeting, Ryan will be taking us through the history of Optical Character Recognition, commonly shortened to OCR. 
+This is the technology core to reading the text from images and turning them into machine text. 
+This technology has been a silent force in many business applications for decades and is often taken for granted. 
+He will walk through how much more capable these systems have become over the years, how they are typically trained, 
+and the different architectures and datasets that have become core to this technology and how they are evaluated. \
+[Video](https://youtu.be/zr7UXQWJprA)
+
+
 ### 2025
 
 **ML Papers and Lightning Talks** \
@@ -39,6 +68,15 @@ Anya Myalarenko discussed *Large Concept Models: Language Modeling in a Sentence
 Adarsh Mateti discussed the ARC-AGI challenge \
 [Video](https://youtu.be/wWW_fiL3tpQ?si=QNlSSi43VGMp9CMV) and [slides](./ARC-AGI.pdf) 
 
+* **October**:  \
+Parag Ahire discussed vibe coding a chatbot app \
+[Video](https://youtu.be/QiFs0xFbatc?si=S8nR2ureoRaWCJ_j)
+
+* **November**:  \
+Sunanda Iyengar discussed and collected feedback about setting up fire prediction using IOT data on AWS \
+Ryan discussed Tiny Recursive Model (TRM) and Hierarchical Reasoning Model (HRM) \
+[Video](https://youtu.be/a4320yX0EXA?si=-TlLbjXA_l5A74iu)
+
 **Kaggle competition recap: CMI - Detect Behavior with Sensor Data** \
 *October, 2025* \
 Ryan presented an overview of his gold medal solution and reviewed other top solutions \
@@ -46,8 +84,8 @@ Ryan presented an overview of his gold medal solution and reviewed other top sol
 
 **NeurIPS Summary** \
 *December 13, 2025* \
-Ted summarized some of the trends, papers, and talks from this year's NeurIPS conference \
-[Slides](./NeurIPS_202512.pdf)
+Ted and Ryan summarized some of the trends, papers, and talks from this year's NeurIPS conference \
+[Video](https://youtu.be/YBmktGkyblQ) and [Ted's Slides](./NeurIPS_202512.pdf)
 
 
 ### 2024
