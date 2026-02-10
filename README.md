@@ -30,7 +30,7 @@ This is the technology core to reading the text from images and turning them int
 This technology has been a silent force in many business applications for decades and is often taken for granted. 
 He will walk through how much more capable these systems have become over the years, how they are typically trained, 
 and the different architectures and datasets that have become core to this technology and how they are evaluated. \
-[Video](https://youtu.be/zr7UXQWJprA)
+[Video](https://youtu.be/zr7UXQWJprA) and [slides](https://docs.google.com/presentation/d/14mNUmbbKHThHgOcmJp8b1ahAdsJX-jsT/edit?usp=sharing&ouid=108979326497894056807&rtpof=true&sd=true)
 
 
 ### 2025
