@@ -74,7 +74,7 @@ Parag Ahire discussed vibe coding a chatbot app \
 
 * **November**:  \
 Sunanda Iyengar discussed and collected feedback about setting up fire prediction using IOT data on AWS \
-Ryan discussed Tiny Recursive Model (TRM) and Hierarchical Reasoning Model (HRM) \
+Ryan discussed [Tiny Recursive Model](https://arxiv.org/abs/2510.04871) (TRM) and [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734) (HRM) \
 [Video](https://youtu.be/a4320yX0EXA?si=-TlLbjXA_l5A74iu)
 
 **Kaggle competition recap: CMI - Detect Behavior with Sensor Data** \
