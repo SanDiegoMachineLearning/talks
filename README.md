@@ -7,7 +7,15 @@ Please let us know if you have a topic you would like to share about in either a
 ### 2026
 
 **ML Papers and Lightning Talks** \
-Monthly discussions of interesting ML papers and other ML lightning talks \
+Monthly discussions of interesting ML papers and other ML lightning talks 
+
+**March**:  
+* Steven Fouskarinis walked through quick demos of the Galaxy.ai and Zapier tools
+* Richard Ackerman presented *How LLMs Are Designed to Hallucinate and Reason*
+* Ryan updated the latest AI news
+* [Video](https://youtu.be/Xb_eqA5M0Po), a copy of [Richard's slides](./How_LLMs_Hallucinate_and_Reason.pdf),
+and [Ryan's list](https://docs.google.com/document/d/1mmaDC0rodRAO8vtMFtm_ouqCK9u_K-6mjBzTPCNL8ng/edit?tab=t.0#heading=h.b1pfw98ctr8p)
+
 **February**:  
 * Zachary Gillett presented *Building a Hybrid ML/LLM Classification System*. 
 * Arman Ommid demoed work on modeling states between two poses, used to accelerate animation in computer gaming. 
@@ -78,9 +86,15 @@ Ryan discussed [Tiny Recursive Model](https://arxiv.org/abs/2510.04871) (TRM) an
 [Video](https://youtu.be/a4320yX0EXA?si=-TlLbjXA_l5A74iu)
 
 **Kaggle competition recap: CMI - Detect Behavior with Sensor Data** \
-*October, 2025* \
+*September 13, 2025* \
 Ryan presented an overview of his gold medal solution and reviewed other top solutions \
 [Video](https://youtu.be/ft_qGXOZP54) and [slides](https://docs.google.com/presentation/d/12cLa05H2Og7lSKIS5UAfJl_5r3e58-YvS6qvlxVIzQo/edit?slide=id.p#slide=id.p)
+
+**History of Large Language Models and Natural Language Processing** \
+*November 8, 2025* \
+Ryan takes us from the early NLP days measuring the frequencies of terms all the way to the modern state of the art large language models. 
+He will help us understand the motivation behind all of the advancements along the way. \
+[Video](https://youtu.be/mqDl3GaH3ss)
 
 **NeurIPS Summary** \
 *December 13, 2025* \
