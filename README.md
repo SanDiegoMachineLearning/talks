@@ -9,6 +9,16 @@ Please let us know if you have a topic you would like to share about in either a
 **ML Papers and Lightning Talks** \
 Monthly discussions of interesting ML papers and other ML lightning talks 
 
+**April**:  
+* Parag Ahire shared *Automating Form Validation/Verification Using a Multi-Modal LLM*
+* Sonali Tamhankar discussed *G is for GPT* from her A-Z series
+* Richard Ackerman presented *A Thumbnail History of AI and Where the Frontier Labs are Today*
+* Ryan updated the latest AI news
+* [Video](https://youtu.be/Xly7a6zTWMQ), 
+[Parag's slides](https://www.slideshare.net/slideshow/automating-form-validation-and-verification-with-multi-modal-llms/286832239), 
+[Sonali's YouTube playlist](https://youtube.com/playlist?list=PLlrtwawxw7_MQDM-hEhH0QSQoSIu1niRf&si=rkuSRHwA5InsyJWy), 
+and [Ryan's list](https://docs.google.com/document/d/1Ik62zvdB4KHWPqUzq5ONukBz8l_A-pxObQLbcL3eomY/edit?usp=drivesdk)
+
 **March**:  
 * Steven Fouskarinis walked through quick demos of the Galaxy.ai and Zapier tools
 * Richard Ackerman presented *How LLMs Are Designed to Hallucinate and Reason*
