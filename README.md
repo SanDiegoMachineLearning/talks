@@ -6,6 +6,11 @@ Please let us know if you have a topic you would like to share about in either a
 
 ### 2026
 
+**The Intuitive Transformer** \
+*April 11, 2026* \
+Join us for a guided tour through the intuition behind transformer and attention mechanisms. This talk will attempt to describe how transformers and attention work. Light on math, heavy on examples and visualizations. Many talks cover the specific operations within these models but do not describe the reasoning or rationale. \
+[Video](https://youtu.be/lY-Ds1T_pBo) and [website](https://ryanchesler.github.io/transformers/)
+
 **ML Papers and Lightning Talks** \
 Monthly discussions of interesting ML papers and other ML lightning talks 
 
