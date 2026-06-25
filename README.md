@@ -6,6 +6,11 @@ Please let us know if you have a topic you would like to share about in either a
 
 ### 2026
 
+**The Future of Document Parsing** \
+*June 13, 2026* \
+In this week's meeting, Ryan followed up from his history of optical character recognition talk with a more modern look at where the field is going, what the latest Vision Language Models can do, how data is being sourced, what new issues these models bring about. \
+[Video](https://youtu.be/Qlc9bJI1O6o) and [interactive website](https://ryanchesler.github.io/document-parsing/)
+
 **The Intuitive Transformer** \
 *April 11, 2026* \
 Join us for a guided tour through the intuition behind transformer and attention mechanisms. This talk will attempt to describe how transformers and attention work. Light on math, heavy on examples and visualizations. Many talks cover the specific operations within these models but do not describe the reasoning or rationale. \
@@ -13,6 +18,15 @@ Join us for a guided tour through the intuition behind transformer and attention
 
 **ML Papers and Lightning Talks** \
 Monthly discussions of interesting ML papers and other ML lightning talks 
+
+**May**
+* John Larsen shared the AI infrastructure he is building in *Trust by architecture, not by policy*
+* Parag Ahire shared *OptiMind: Advanced SLM for Natural Language to MILP Optimization Modeling*
+* Ryan updated the latest AI news
+* Ted mentioned the Orbit Wars competition on Kaggle
+* [Video](https://youtu.be/GLxvSnDiD-o),
+[John's slides](./trust_by_architecture.pdf),
+and [Parag's slides](https://www.slideshare.net/slideshow/optimind-advanced-slm-for-natural-language-to-milp-optimization-modeling/286971401)
 
 **April**:  
 * Parag Ahire shared *Automating Form Validation/Verification Using a Multi-Modal LLM*
