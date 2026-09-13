@@ -6,6 +6,11 @@ Please let us know if you have a topic you would like to share about in either a
 
 ### 2026
 
+**LLM Routing** \
+*September 12, 2026* \
+In this week's meeting, Ted will review a brief history of LLM routing techniques, metrics for evaluating them, and highlight both successes and the remaining gap in LLM routing. \
+[Video](https://youtu.be/6D47yCvUWuw) and [presentation](https://tedkyi.github.io/llm_routing/)
+
 **The Future of Document Parsing** \
 *June 13, 2026* \
 In this week's meeting, Ryan followed up from his history of optical character recognition talk with a more modern look at where the field is going, what the latest Vision Language Models can do, how data is being sourced, what new issues these models bring about. \
